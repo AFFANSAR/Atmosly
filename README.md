@@ -30,9 +30,3 @@
 3. Commit your changes (`git commit -m "Added new feature"`)  
 4. Push to the branch (`git push origin feature-name`)  
 5. Open a Pull Request  
-
-## 📜 License  
-
-This project is licensed under the **MIT License**.  
-
-Would you like to add API details, environment variables, or deployment instructions?
