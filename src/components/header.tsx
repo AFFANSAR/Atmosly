@@ -12,8 +12,8 @@ export function Header() {
         <Link to={"/"}>
           <img
             src={theme === "dark" ? "/logo.png" : "/logo2.png"}
-            alt="Klimate logo"
-            className="h-14"
+            alt="Atmosly logo"
+            className="h-48 w-48 object-contain"
           />
         </Link>
 
