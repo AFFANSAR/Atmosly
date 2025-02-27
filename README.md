@@ -1,7 +1,3 @@
-Here’s a well-structured README file in a more traditional format:  
-
----
-
 # 🌤️ Atmosly  
 
 **Atmosly** is a modern weather application that provides real-time weather data with an intuitive UI. It features a seamless dark/light mode toggle and interactive visualizations.
@@ -38,7 +34,5 @@ Here’s a well-structured README file in a more traditional format:
 ## 📜 License  
 
 This project is licensed under the **MIT License**.  
-
----
 
 Would you like to add API details, environment variables, or deployment instructions?
