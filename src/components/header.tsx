@@ -13,7 +13,7 @@ export function Header() {
           <img
             src={theme === "dark" ? "/logo.png" : "/logo2.png"}
             alt="Atmosly logo"
-            className="h-48 w-48 object-contain"
+            className="h-32  object-contain"
           />
         </Link>
 
